@@ -13,6 +13,5 @@ Lesson7: Creating Custom Data Loaders in PyTorch
 create_csv.py : File is used to create a .csv file from Cats and Dogs images
 DataSetLoader.py: File for creating custom data loader
 
-Much appreciation and thanks to https://github.com/aladdinpersson. All the tutorials above have been taken from his beautiful lessons.
-
-Youtube Link: https://youtu.be/2S1dgHpqCdk
+Much appreciation and thanks to https://github.com/aladdinpersson. All the tutorials above have been taken from his beautiful lessons in youtube.
+His Youtube Channel Link: https://youtu.be/2S1dgHpqCdk
