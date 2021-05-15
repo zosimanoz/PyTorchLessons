@@ -1,7 +1,6 @@
 # PyTorchLessons
-Welcome to the Basic lessons in PyTorch. 
 
-The course includes following contents in general: 
+The practise lessons includes following contents in general: 
 - Lesson1: Basics about PyTorch Tensors and Mathematical Operations
 - Lesson2: Creating Simple Neural Network in Pytorch
 - Lesson3: Creating Simple Convolutional Neural Network in PyTorch
